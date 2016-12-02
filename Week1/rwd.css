@@ -1,0 +1,119 @@
+.main {
+		width: 90vw;
+		height: 90vh;
+		margin: auto;
+		border: 1px solid black;
+		position:relative;
+				}
+				
+				.b1 {
+					width: 25vw;
+					height: 32vh;
+					border: 1px solid black;
+				
+					
+					position: absolute;
+					top: 3.5vh;
+					left:1.8vw;
+				}
+				
+				.b2 {
+					width: 25vw;
+					height: 32vh;
+					border: 1px solid black;
+					
+					position: absolute;
+					top: 3.5vh;
+					right: 1.8vw;
+				}
+				
+				.b3 {
+					width: 15vw;
+					height: 32vh;
+		
+					border: 1px solid red;
+					border-radius: 50%;
+					
+					position: absolute;
+					top: 29vh;
+					left: 37.5vw;
+				}
+				
+				.b4 {
+					width: 25vw;
+					height: 32vh;
+					border: 1px solid black;
+					position: absolute;
+					bottom: 3.5vh;
+					left: 1.8vw;
+				}
+				
+				.b5 {
+					width: 25vw;
+					height: 32vh;
+					border: 1px solid black;
+					position: absolute;
+					bottom: 3.5vh;
+					right: 1.8vw;
+					
+				}
+				
+				
+				.b1s1, .b1s2, .b1s3, .b1s4, .b1s5 {
+					width: 5vw;
+					height: 10vh;
+					border: 1px solid black;
+				}
+				
+				.b2s1, .b2s2, .b2s3, .b2s4, .b2s5 {
+					width: 5vw;
+					height: 10vh;
+					border: 1px solid red;
+					border-radius: 50%;
+				}
+				
+				.b4s1, .b4s2, .b4s3, .b4s4 {
+					width: 7vw;
+					height: 10vh;
+					border: 1px solid blue;
+				}
+				
+				.b5s1, .b5s2, .b5s3, .b5s4 {
+					width: 7vw;
+					height: 10vh;
+					border: 1px solid purple;
+					border-radius: 40%;
+				}
+				
+				
+				
+				.b1s1, .b4s1, .b2s1, .b5s1 {					
+					position: absolute;
+					top: 1.4vh;
+					left:0.8vw;
+				}
+				
+				.b1s2, .b4s2, .b2s2, .b5s2 {
+					position: absolute;
+					top: 1.4vh;
+					right:0.8vw;
+				}
+				
+				.b1s3, .b4s3, .b2s3, .b5s3 {
+					position: absolute;
+					bottom: 1.4vh;
+					left:0.8vw;
+				}
+				
+				.b1s4, .b4s4, .b2s4, .b5s4 {
+					position: absolute;
+					bottom: 1.4vh;
+					right:0.8vw;
+				}
+				
+				.b1s5, .b2s5 {
+					position: absolute;
+					top: 11vh;
+					left:10vw;
+				}
+				
